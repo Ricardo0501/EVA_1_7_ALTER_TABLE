@@ -1,0 +1,1 @@
+# EVA_1_7_ALTER_TABLE
